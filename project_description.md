@@ -1,4 +1,4 @@
-# Content: Supervised Learning
+# Supervised Learning
 ## Project: Creating a Student Intervention System
 
 ## Project Overview
@@ -27,7 +27,7 @@ This project contains two files:
 - `student_intervention.ipynb`: This is the main file where you will be performing your work on the project.
 - `student-data.csv`: The project dataset. You?ll load this data in the notebook.
 
-In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook student_intervention.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project. A **README** file has also been provided with the project files which may contain additional necessary information or instruction for the project. 
+In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook student_intervention.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens.
 
 ## Submitting the Project
 
